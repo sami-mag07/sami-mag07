@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1200&color=8FF05A&center=true&vCenter=true&width=520&lines=Sami+Magdouli;Co-founder+%26+CTO+at+NTA;Building+Emil%2C+my+own+AI+assistant;Berlin+%C2%B7+coding+since+2020" alt="Sami Magdouli" />
+# Sami Magdouli
+
+Co-founder &amp; CTO at NTA · Building Emil, my own AI assistant · Berlin, coding since 2020
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sami-magdouli-35b0393a1)
 [![NTA](https://img.shields.io/badge/nachteilsausgleich.app-1C1F24?style=for-the-badge&logo=googlechrome&logoColor=white)](https://nachteilsausgleich.app)
