@@ -29,9 +29,9 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=sami-mag07&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" height="170" alt="GitHub stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sami-mag07&layout=compact&theme=github_dark&hide_border=true&langs_count=6" height="170" alt="Top languages" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sami-mag07&theme=github_dark" height="180" alt="GitHub stats" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sami-mag07&theme=github_dark" height="180" alt="Most used languages" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sami-mag07&theme=github-dark-blue&hide_border=true" alt="Streak" />
+<img src="https://streak-stats.demolab.com/?user=sami-mag07&theme=github-dark-blue&hide_border=true" alt="Streak" />
 
 </div>
