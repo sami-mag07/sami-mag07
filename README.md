@@ -29,7 +29,15 @@
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sami-mag07&theme=github_dark" height="180" alt="Most used languages" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sami-mag07&theme=github_dark&utcOffset=2" height="180" alt="Commits by time of day" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="stats-dark.svg">
+  <img src="stats-light.svg" alt="Stats" height="190">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="langs-dark.svg">
+  <img src="langs-light.svg" alt="Languages" height="190">
+</picture>
 
 </div>
+
+<sub>Cards are generated from all 25 repositories, private ones included, by <a href="stats.py">stats.py</a>.</sub>
