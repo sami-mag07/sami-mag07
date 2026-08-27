@@ -29,9 +29,7 @@
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sami-mag07&theme=github_dark" height="180" alt="GitHub stats" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sami-mag07&theme=github_dark" height="180" alt="Most used languages" />
-
-<img src="https://streak-stats.demolab.com/?user=sami-mag07&theme=github-dark-blue&hide_border=true" alt="Streak" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sami-mag07&theme=github_dark&utcOffset=2" height="180" alt="Commits by time of day" />
 
 </div>
