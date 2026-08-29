@@ -1,11 +1,14 @@
 <div align="center">
 
-# Sami Magdouli
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1C1F24,100:8FF05A&height=200&section=header&text=Sami%20Magdouli&fontSize=58&fontColor=ffffff&fontAlignY=36&animation=fadeIn&desc=Co-founder%20%26%20CTO%20at%20NTA%20%C2%B7%20Berlin%20%C2%B7%20coding%20since%202020&descSize=18&descAlignY=58&descAlign=50" width="100%" alt="Sami Magdouli" />
 
-Co-founder &amp; CTO at NTA · Building Emil, my own AI assistant · Berlin, coding since 2020
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1200&color=8FF05A&center=true&vCenter=true&width=560&lines=Building+Emil%2C+my+own+AI+assistant;Learning+app+for+students+with+dyslexia;Everything+self+hosted+on+one+VPS;Claude+Code+as+my+daily+driver" alt="What I am working on" />
+
+<br />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sami-magdouli-35b0393a1)
 [![NTA](https://img.shields.io/badge/nachteilsausgleich.app-1C1F24?style=for-the-badge&logo=googlechrome&logoColor=white)](https://nachteilsausgleich.app)
+[![Mail](https://img.shields.io/badge/Mail-8FF05A?style=for-the-badge&logo=maildotru&logoColor=1C1F24)](mailto:Sami-mag@web.de)
 
 </div>
 
@@ -32,14 +35,23 @@ Co-founder &amp; CTO at NTA · Building Emil, my own AI assistant · Berlin, cod
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="stats-dark.svg">
-  <img src="stats-light.svg" alt="Stats" height="190">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sami-mag07/sami-mag07/main/stats-dark.svg">
+  <img src="https://raw.githubusercontent.com/sami-mag07/sami-mag07/main/stats-light.svg" alt="Stats" height="190">
 </picture>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="langs-dark.svg">
-  <img src="langs-light.svg" alt="Languages" height="190">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sami-mag07/sami-mag07/main/langs-dark.svg">
+  <img src="https://raw.githubusercontent.com/sami-mag07/sami-mag07/main/langs-light.svg" alt="Languages" height="190">
+</picture>
+
+<br /><br />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sami-mag07/sami-mag07/output/snake-dark.svg">
+  <img src="https://raw.githubusercontent.com/sami-mag07/sami-mag07/output/snake-light.svg" alt="Contribution snake" width="100%">
 </picture>
 
 </div>
 
-<sub>Cards are generated from all 25 repositories, private ones included, by <a href="stats.py">stats.py</a>.</sub>
+<sub>Stats cards are generated from all 25 repositories, private ones included, by <a href="stats.py">stats.py</a>. The snake is rebuilt every night by a GitHub Action.</sub>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8FF05A,100:1C1F24&height=120&section=footer" width="100%" alt="" />
