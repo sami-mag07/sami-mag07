@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1C1F24,100:8FF05A&height=200&section=header&text=Sami%20Magdouli&fontSize=58&fontColor=ffffff&fontAlignY=36&animation=fadeIn&desc=Co-founder%20%26%20CTO%20at%20NTA%20%C2%B7%20Berlin%20%C2%B7%20coding%20since%202020&descSize=18&descAlignY=58&descAlign=50" width="100%" alt="Sami Magdouli" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1C1F24,100:8FF05A&height=200&section=header&text=Sami%20Magdouli&fontSize=58&fontColor=ffffff&fontAlignY=36&animation=fadeIn&desc=Co-founder%20and%20CTO%20at%20NTA%20%C2%B7%20Berlin%20%C2%B7%20coding%20since%202020&descSize=18&descAlignY=58&descAlign=50" width="100%" alt="Sami Magdouli" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1200&color=8FF05A&center=true&vCenter=true&width=560&lines=Building+Emil%2C+my+own+AI+assistant;Learning+app+for+students+with+dyslexia;Everything+self+hosted+on+one+VPS;Claude+Code+as+my+daily+driver" alt="What I am working on" />
 
