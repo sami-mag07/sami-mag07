@@ -24,6 +24,16 @@ Ich baue KI-Agenten und Apps in Berlin. Mein Portfolio ist ein Späti. Jedes Get
 </table>
 <!-- kuehlschrank:end -->
 
+<!-- pokale:start -->
+## Pokale
+
+<table>
+<tr><td align="center" valign="top" width="33%"><img src="assets/drinks/trophy_code.webp" width="180" alt="Pokal des CODE-Hackathons: zwei weiße Code-Klammern auf einem Sockel mit der Eins, der sich dreht"><br><b>1. Platz CODE-Hackathon</b><br><sub>Mit Malek HooperGPT in einem Tag gebaut, damals hieß es noch FollowCam.</sub></td><td align="center" valign="top" width="33%"><a href="https://github.com/sami-mag07/doorway"><img src="assets/drinks/trophy_google.webp" width="180" alt="Gläserner Preis des Google Accessibility Hackathons für den zweiten Platz, der sich dreht"></a><br><a href="https://github.com/sami-mag07/doorway"><b>2. Platz Google Accessibility Hackathon</b></a><br><sub>Mit Malek Doorway gebaut: zeigt Rollstuhlnutzern und blinden Menschen, welcher Eingang für sie funktioniert.</sub></td><td align="center" valign="top" width="33%"><img src="assets/drinks/trophy_loewen.webp" width="180" alt="Goldener Pokal von Schule der Löwen mit Schild 2. Platz, der sich dreht"><br><b>2. Platz Schule der Löwen</b><br><sub>Mein erster Pitch allein und auf Deutsch. Vier Stimmen hinter Platz eins.</sub></td></tr>
+</table>
+
+Dazu 3. Platz beim OpenAI Hackathon, 3. Platz beim Cursor Hackathon und 4. Platz bei SummerUP von 120 Teams.
+<!-- pokale:end -->
+
 <a href="https://spaeti.5.45.109.195.sslip.io"><img alt="Durch die offene Tür in den Späti, dann geht das Licht an: Kühlschrank mit meinen Projekten, Neonschild Späti und 24/7" src="assets/reinkommen.webp" width="100%"></a>
 
 <p align="center"><a href="https://spaeti.5.45.109.195.sslip.io"><b>Reinkommen</b></a></p>
