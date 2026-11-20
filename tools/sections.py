@@ -1,7 +1,7 @@
 """Erzeugt die Abschnitte Kuehlschrank und Pokale fuer das Profil-README.
 
 Namen und Texte stammen woertlich von der Späti-Seite (Objekt D in index.html),
-gekuerzt nur durch Weglassen. Links nur auf oeffentliche Repos oder Live-Seiten.
+gekuerzt nur durch Weglassen. Links auf oeffentliche Repos oder Live-Seiten, sonst auf den Späti.
 Aufruf: python3 tools/sections.py README.md fridge|trophies  (ersetzt den Bereich zwischen den Markern)
 """
 import sys
@@ -64,13 +64,11 @@ TROPHY_MORE = "Dazu 3. Platz beim OpenAI Hackathon, 3. Platz beim Cursor Hackath
 
 
 def cell(pid, name, text, link, alt):
-    img = f'<img src="assets/drinks/{pid}.webp" width="180" alt="{alt}">'
-    if link:
-        img = f'<a href="{link}">{img}</a>'
-        name = f'<a href="{link}"><b>{name}</b></a>'
-    else:
-        name = f"<b>{name}</b>"
-    return f'<td align="center" valign="top" width="33%">{img}<br>{name}<br><sub>{text}</sub></td>'
+    """Bild und Name sind ein einziger Link (ein Tab-Stopp). Ohne eigenes Repo oder Demo fuehrt er in den Späti.
+    Das Bild ist dekorativ (alt leer), der Name im Link traegt die Bedeutung."""
+    href = link or SPAETI
+    return (f'<td align="center" valign="top" width="33%"><a href="{href}">'
+            f'<img src="assets/drinks/{pid}.webp" width="180" alt=""><br><b>{name}</b></a><br><sub>{text}</sub></td>')
 
 
 def table(rows):
