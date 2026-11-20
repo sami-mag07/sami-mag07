@@ -43,15 +43,12 @@ Ich baue KI-Agenten und Apps in Berlin. Mein Portfolio ist ein Späti. Jedes Get
   <img src="https://raw.githubusercontent.com/sami-mag07/sami-mag07/main/langs-light.svg" alt="Languages" height="190">
 </picture>
 
-<br /><br />
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sami-mag07/sami-mag07/output/snake-dark.svg">
-  <img src="https://raw.githubusercontent.com/sami-mag07/sami-mag07/output/snake-light.svg" alt="Contribution snake" width="100%">
-</picture>
 
 </div>
 
-<sub>Stats cards are generated from all 25 repositories, private ones included, by <a href="stats.py">stats.py</a>. The snake is rebuilt every night by a GitHub Action.</sub>
+<sub>Stats cards are generated from all 25 repositories, private ones included, by <a href="stats.py">stats.py</a>.</sub>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8FF05A,100:1C1F24&height=120&section=footer" width="100%" alt="" />
+<a href="https://spaeti.5.45.109.195.sslip.io"><img alt="Durch die offene Tür in den Späti, dann geht das Licht an: Kühlschrank mit meinen Projekten, Neonschild Späti und 24/7" src="assets/reinkommen.webp" width="100%"></a>
+
+<p align="center"><a href="https://spaeti.5.45.109.195.sslip.io"><b>Reinkommen</b></a></p>
