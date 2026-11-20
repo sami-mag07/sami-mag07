@@ -30,25 +30,6 @@ Ich baue KI-Agenten und Apps in Berlin. Mein Portfolio ist ein Späti. Jedes Get
 
 </div>
 
-### Stats
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sami-mag07/sami-mag07/main/stats-dark.svg">
-  <img src="https://raw.githubusercontent.com/sami-mag07/sami-mag07/main/stats-light.svg" alt="Stats" height="190">
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sami-mag07/sami-mag07/main/langs-dark.svg">
-  <img src="https://raw.githubusercontent.com/sami-mag07/sami-mag07/main/langs-light.svg" alt="Languages" height="190">
-</picture>
-
-
-
-</div>
-
-<sub>Stats cards are generated from all 25 repositories, private ones included, by <a href="stats.py">stats.py</a>.</sub>
-
 <a href="https://spaeti.5.45.109.195.sslip.io"><img alt="Durch die offene Tür in den Späti, dann geht das Licht an: Kühlschrank mit meinen Projekten, Neonschild Späti und 24/7" src="assets/reinkommen.webp" width="100%"></a>
 
 <p align="center"><a href="https://spaeti.5.45.109.195.sslip.io"><b>Reinkommen</b></a></p>
