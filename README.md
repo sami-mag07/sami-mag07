@@ -1,22 +1,22 @@
-<div align="center">
+<a href="https://spaeti.5.45.109.195.sslip.io">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/front-night.jpg">
+  <img alt="Samis Späti in Berlin: Ladenfront mit Neonschild, ein Plakat mit meinem Namen und ein Rollladen, auf dem Tippen zum Reingehen steht" src="assets/front-day.jpg" width="100%">
+</picture>
+</a>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1C1F24,100:8FF05A&height=200&section=header&text=Sami%20Magdouli&fontSize=58&fontColor=ffffff&fontAlignY=36&animation=fadeIn&desc=Co-founder%20and%20CTO%20at%20NTA%20%C2%B7%20Berlin%20%C2%B7%20coding%20since%202020&descSize=18&descAlignY=58&descAlign=50" width="100%" alt="Sami Magdouli" />
+Ich baue KI-Agenten und Apps in Berlin. Mein Portfolio ist ein Späti. Jedes Getränk ist ein Projekt.
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1200&color=8FF05A&center=true&vCenter=true&width=560&lines=Building+Emil%2C+my+own+AI+assistant;Learning+app+for+students+with+dyslexia;Everything+self+hosted+on+one+VPS;Claude+Code+as+my+daily+driver" alt="What I am working on" />
-
-<br />
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sami-magdouli-35b0393a1)
-[![NTA](https://img.shields.io/badge/nachteilsausgleich.app-1C1F24?style=for-the-badge&logo=googlechrome&logoColor=white)](https://nachteilsausgleich.app)
-[![Mail](https://img.shields.io/badge/Mail-8FF05A?style=for-the-badge&logo=maildotru&logoColor=1C1F24)](mailto:Sami-mag@web.de)
-
-</div>
+<p align="center">
+  <a href="https://spaeti.5.45.109.195.sslip.io"><b>Späti</b></a> &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/sami-magdouli-35b0393a1"><b>LinkedIn</b></a> &nbsp;·&nbsp;
+  <a href="mailto:Sami-mag@web.de"><b>Mail</b></a>
+</p>
 
 ### Building
 
 | | |
 |---|---|
-| **NTA** | Learning app for students with dyslexia. Next.js, Claude API, self hosted on my own VPS. |
 | **Emil** | Personal AI assistant on WhatsApp and Telegram: one orchestrator, nine specialist agents, runs my mail and calendar. Public part: [scraping-agent-skeleton](https://github.com/sami-mag07/scraping-agent-skeleton) |
 | **ParkIt** | What parking in Berlin actually costs right now. [App](https://github.com/sami-mag07/ParkIt) · [Web](https://github.com/sami-mag07/parkit-web) |
 | **Beacon** | Crisis cockpit for winter blackouts, built at European Defense Tech Week Berlin 2026. |
