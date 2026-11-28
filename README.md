@@ -1,38 +1,25 @@
-<a href="https://spaeti.5.45.109.195.sslip.io">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/front-night.jpg">
-  <img alt="Samis Späti in Berlin: Ladenfront mit Neonschild, ein Plakat mit meinem Namen und ein Rollladen, auf dem Tippen zum Reingehen steht" src="assets/front-day.jpg" width="100%">
-</picture>
-</a>
-
-<p align="center">Mein Portfolio ist ein Späti. Jedes Getränk ist ein Projekt.</p>
+<a href="https://spaeti.5.45.109.195.sslip.io"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg"><img alt="Samis Späti: a Berlin late-night shop. The neon sign switches on, the shutter rolls up, and the poster in the window reads Sami Magdouli, software engineer in Berlin." src="assets/header-light.svg" width="100%"></picture></a>
 
 <p align="center">
+  <a href="https://spaeti.5.45.109.195.sslip.io"><b>Website</b></a> &nbsp;·&nbsp;
   <a href="https://www.linkedin.com/in/sami-magdouli-35b0393a1"><b>LinkedIn</b></a> &nbsp;·&nbsp;
-  <a href="mailto:Sami-mag@web.de"><b>Mail</b></a>
+  <a href="mailto:Sami-mag@web.de"><b>Email</b></a>
 </p>
 
-<!-- kuehlschrank:start -->
-## Kühlschrank
+I build AI agents and the tools under them: web search, extraction, research and computer vision. Technical researcher at a stealth startup in San Francisco. Coding since 2020.
 
-<table>
-<tr><td align="center" valign="top" width="33%"><a href="https://github.com/sami-mag07/searchify"><img src="assets/drinks/searchify.webp" width="180" alt=""><br><b>Searchify Eistee</b></a><br><sub>Mein Research-Agent: sucht parallel über mehrere Suchdienste und lässt kein Zitat durch, das in keiner Quelle steht.</sub></td><td align="center" valign="top" width="33%"><a href="https://spaeti.5.45.109.195.sslip.io"><img src="assets/drinks/emil.webp" width="180" alt=""><br><b>Emil Cola</b></a><br><sub>Ein Orchestrator mit 9 Spezialisten. Sortiert Mails, plant Termine, ruft mich an. Läuft über WhatsApp.</sub></td><td align="center" valign="top" width="33%"><a href="https://spaeti.5.45.109.195.sslip.io"><img src="assets/drinks/redteam.webp" width="180" alt=""><br><b>Red Team Shot</b></a><br><sub>Greift meine eigenen Apps an: Recon, Secret-Scan, Prompt-Injection gegen Emil, Retest nach jedem Fix.</sub></td></tr>
-<tr><td align="center" valign="top" width="33%"><a href="https://github.com/sami-mag07/tapntax"><img src="assets/drinks/orchestra.webp" width="180" alt=""><br><b>Orchestra Limo</b></a><br><sub>Geschäftskarte bezahlt, eine Frage aufs Telefon, ein Tap und der Beleg liegt in der Steuerakte.</sub></td><td align="center" valign="top" width="33%"><a href="https://spaeti.5.45.109.195.sslip.io"><img src="assets/drinks/stipendien.webp" width="180" alt=""><br><b>Stipendien Saft</b></a><br><sub>Findet Stipendien, die wirklich passen. Das CRM dahinter läuft im Emil-Dashboard.</sub></td><td align="center" valign="top" width="33%"><a href="https://github.com/sami-mag07/hub"><img src="assets/drinks/hub.webp" width="180" alt=""><br><b>Hub Spezi</b></a><br><sub>Alle Hackathons, Aufgaben und Notizen von Malek und mir an einem Ort.</sub></td></tr>
-<tr><td align="center" valign="top" width="33%"><a href="https://spaeti.5.45.109.195.sslip.io"><img src="assets/drinks/followcam.webp" width="180" alt=""><br><b>HooperGPT Energy</b></a><br><sub>Erkennt Spieler, Trikotnummern und Würfe aus dem Spielvideo. YOLO, Kalman-Filter, OCR.</sub></td><td align="center" valign="top" width="33%"><a href="https://spaeti.5.45.109.195.sslip.io"><img src="assets/drinks/courtside.webp" width="180" alt=""><br><b>Courtside Iso</b></a><br><sub>Videoanalyse für Spiele, im August von Basketball auf Fußball erweitert.</sub></td><td align="center" valign="top" width="33%"><a href="https://spaeti.5.45.109.195.sslip.io"><img src="assets/drinks/handball.webp" width="180" alt=""><br><b>Handball Schorle</b></a><br><sub>Port von FollowCam auf Handball, getestet an einem kompletten Spiel.</sub></td></tr>
-<tr><td align="center" valign="top" width="33%"><a href="https://spaeti.5.45.109.195.sslip.io"><img src="assets/drinks/beacon.webp" width="180" alt=""><br><b>Beacon Tonic</b></a><br><sub>Krisen-Cockpit für einen Stromausfall. Zeigt, was zu tun ist, wenn nichts mehr geht.</sub></td><td align="center" valign="top" width="33%"><a href="https://parkit.5.45.109.195.sslip.io"><img src="assets/drinks/parkit.webp" width="180" alt=""><br><b>ParkIt Brause</b></a><br><sub>Zeigt, was Parken in Berlin gerade kostet, bevor du losfährst.</sub></td><td align="center" valign="top" width="33%"><a href="https://portfolio.5.45.109.195.sslip.io"><img src="assets/drinks/portfolio.webp" width="180" alt=""><br><b>Portfolio Wasser</b></a><br><sub>Mein Portfolio als macOS Tahoe nachgebaut, mit Emil in der Notch.</sub></td></tr>
-</table>
-<!-- kuehlschrank:end -->
+## Projects
 
-<!-- pokale:start -->
-## Pokale
+<p align="center">
+<a href="https://github.com/sami-mag07/searchify"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/tags/searchify-dark.svg"><img alt="Searchify: Web search for AI agents on your own machine. No API key." src="assets/tags/searchify-light.svg" width="400"></picture></a>
+<a href="https://github.com/Malek1414/code-hackathon-project"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/tags/hoopergpt-dark.svg"><img alt="HooperGPT: Follows players, jersey numbers and shots through a basketball game video." src="assets/tags/hoopergpt-light.svg" width="400"></picture></a>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/tags/emil-dark.svg"><img alt="Emil: My assistant on WhatsApp. An orchestrator with specialist agents that sorts my mail, plans my week and calls me." src="assets/tags/emil-light.svg" width="400"></picture>
+<a href="https://github.com/sami-mag07/ultimate-scraper-agent"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/tags/research-agent-dark.svg"><img alt="Research Agent: Research skill for Claude Code. Several search engines, parallel agent waves, no citation without a verbatim quote." src="assets/tags/research-agent-light.svg" width="400"></picture></a>
+<a href="https://github.com/sami-mag07/tapntax"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/tags/tapntax-dark.svg"><img alt="Tap n' tax: A card payment turns into one question on your phone. One tap files the expense." src="assets/tags/tapntax-light.svg" width="400"></picture></a>
+<a href="https://github.com/sami-mag07/ParkIt"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/tags/parkit-dark.svg"><img alt="ParkIt: What parking in Berlin really costs right now, across all 102 official zones." src="assets/tags/parkit-light.svg" width="400"></picture></a>
+</p>
 
-<table>
-<tr><td align="center" valign="top" width="33%"><a href="https://spaeti.5.45.109.195.sslip.io"><img src="assets/drinks/trophy_code.webp" width="180" alt=""><br><b>1. Platz CODE-Hackathon</b></a><br><sub>Mit Malek HooperGPT in einem Tag gebaut, damals hieß es noch FollowCam.</sub></td><td align="center" valign="top" width="33%"><a href="https://github.com/sami-mag07/doorway"><img src="assets/drinks/trophy_google.webp" width="180" alt=""><br><b>2. Platz Google Accessibility Hackathon</b></a><br><sub>Mit Malek Doorway gebaut: zeigt Rollstuhlnutzern und blinden Menschen, welcher Eingang für sie funktioniert.</sub></td><td align="center" valign="top" width="33%"><a href="https://spaeti.5.45.109.195.sslip.io"><img src="assets/drinks/trophy_loewen.webp" width="180" alt=""><br><b>2. Platz Schule der Löwen</b></a><br><sub>Mein erster Pitch allein und auf Deutsch. Vier Stimmen hinter Platz eins.</sub></td></tr>
-</table>
-
-Dazu 3. Platz beim OpenAI Hackathon, 3. Platz beim Cursor Hackathon und 4. Platz bei SummerUP von 120 Teams.
-<!-- pokale:end -->
-
-<a href="https://spaeti.5.45.109.195.sslip.io"><img alt="Durch die offene Tür in den Späti, dann geht das Licht an: Kühlschrank mit meinen Projekten, Neonschild Späti und 24/7" src="assets/reinkommen.webp" width="100%"></a>
-
-<p align="center"><a href="https://spaeti.5.45.109.195.sslip.io"><b>Reinkommen</b></a></p>
+<p align="center">
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/wins-dark.svg"><img alt="Winning tickets sold here: 1st CODE Hackathon, 2nd Google Accessibility Hackathon, 2nd Schule der Löwen pitch competition, 3rd OpenAI Hackathon, 3rd Cursor Hackathon at Taxfix, 4th SummerUP of 120 teams" src="assets/wins-light.svg" width="400"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/hours-dark.svg"><img alt="Opening hours read from my commit history: a grid of weekdays and hours, busy every day from morning to past midnight" src="assets/hours-light.svg" width="400"></picture>
+</p>
